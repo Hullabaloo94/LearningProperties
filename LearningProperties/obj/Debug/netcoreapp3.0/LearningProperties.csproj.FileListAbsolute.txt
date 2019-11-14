@@ -1,0 +1,11 @@
+C:\Users\Jason\source\repos\LearningProperties\LearningProperties\bin\Debug\netcoreapp3.0\LearningProperties.exe
+C:\Users\Jason\source\repos\LearningProperties\LearningProperties\bin\Debug\netcoreapp3.0\LearningProperties.deps.json
+C:\Users\Jason\source\repos\LearningProperties\LearningProperties\bin\Debug\netcoreapp3.0\LearningProperties.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningProperties\LearningProperties\bin\Debug\netcoreapp3.0\LearningProperties.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningProperties\LearningProperties\bin\Debug\netcoreapp3.0\LearningProperties.dll
+C:\Users\Jason\source\repos\LearningProperties\LearningProperties\bin\Debug\netcoreapp3.0\LearningProperties.pdb
+C:\Users\Jason\source\repos\LearningProperties\LearningProperties\obj\Debug\netcoreapp3.0\LearningProperties.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\LearningProperties\LearningProperties\obj\Debug\netcoreapp3.0\LearningProperties.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningProperties\LearningProperties\obj\Debug\netcoreapp3.0\LearningProperties.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningProperties\LearningProperties\obj\Debug\netcoreapp3.0\LearningProperties.dll
+C:\Users\Jason\source\repos\LearningProperties\LearningProperties\obj\Debug\netcoreapp3.0\LearningProperties.pdb
